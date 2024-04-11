@@ -4,7 +4,7 @@ import Image from "next/image"
 const skills = [
   { skill: "NLP" },
   { skill: "Data Science" },
-  { skill: "Machine Learning" },
+  { skill: "Scikit-learn" },
   { skill: "SQL" },
   { skill: "Python" },
   { skill: "RAG" },
@@ -13,6 +13,11 @@ const skills = [
   { skill: "Tensorflow" },
   { skill: "GitHub" },
   { skill: "A/B testing" },
+  { skill: "Data Visualization" },
+  { skill: "AWS" },
+  { skill: "CI/CD Pipeline" },
+  { skill: "Azure" },
+  { skill: "Pandas" },
 ]
 
 const AboutSection = () => {
