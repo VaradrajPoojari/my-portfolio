@@ -38,16 +38,12 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I graduated from University of British Columbia, Vancouver in 2022
-              with a Masters in Data Science and have been working in the
-              field ever since.
+             Graduating from the University of British Columbia, Vancouver, in 2022 with a Master's in Data Science, I've been actively engaged in this domain ever since.
             </p>
             <br />
             <p>
               I have a wide range of hobbies and passions that keep me busy.
-              From reading, hiking, traveling, to gardening,
-              I am always seeking new experiences and love to keep myself
-              engaged and learning new things.
+              Whether it's immersing myself in books, exploring nature through hiking, embarking on adventures while traveling, or nurturing greenery in my garden, I'm constantly seeking new experiences and knowledge.
             </p>
             <br />
             <p>
@@ -57,8 +53,7 @@ const AboutSection = () => {
               </span>{" "}
               and that&#39;s what I strive to do, I have a passion for
               technology and a desire to always push the limits of what is
-              possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              possible. I am excited to see where my career takes me and remain open to embracing fresh opportunities along the way. 🙂
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">

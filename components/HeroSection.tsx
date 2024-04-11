@@ -24,8 +24,11 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               AI/NLP/ML Specialist{" "}
             </span>
-            based in Vancouver, BC. Working towards creating AI solutions that
-            makes life easier and more meaningful.
+            based in Vancouver, BC, driven by a passion to create impactful solutions that enhance people's lives.
+            <br/>
+            My expertise in NLP and generative AI allows me to create intelligent chatbots, carry out perceptive data analysis, and create potent machine learning models.
+            <br/>
+            Through my work, I enable individuals to make informed decisions and tackle complex challenges.
           </p>
           <Link
             to="projects"
