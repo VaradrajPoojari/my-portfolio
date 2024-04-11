@@ -34,14 +34,7 @@ const AboutSection = () => {
             <h1 className="text-center text-2xl font-bold mb-6 md:text-left">
               Get to know me!
             </h1>
-            <p>
-              Hi, my name is Varadraj and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> AI/ML/NLP Engineer
-              based in Vancouver, BC.
-            </p>
-            <br />
+            
             <p>
              Graduating from the University of British Columbia, Vancouver, in 2022 with a Master's in Data Science, I've been actively engaged in this domain ever since.
             </p>

@@ -19,17 +19,25 @@ const HeroSection = () => {
         </div>
         <div className="md:mt-2 md:w-3/5">
           <h1 className="text-4xl font-bold mt-6 md:mt-0 md:text-7xl">Hi, I&#39;m Varadraj!</h1>
+          <br/>
           <p className="text-lg mt-4 mb-6 md:text-2xl">
+           <p>
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">
               AI/NLP/ML Specialist{" "}
             </span>
             based in Vancouver, BC, driven by a passion to create impactful solutions that enhance people's lives.
+            </p>
             <br/>
-            My expertise in NLP and generative AI allows me to create intelligent chatbots, carry out perceptive data analysis, and create potent machine learning models.
+            <p>
+            My expertise in NLP and generative AI allows me to create intelligent chatbots, carry out perceptive data analysis, and build machine learning models.
+            </p>
             <br/>
+            <p>
             Through my work, I enable individuals to make informed decisions and tackle complex challenges.
+            </p>
           </p>
+          <br/>
           <Link
             to="projects"
             className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
